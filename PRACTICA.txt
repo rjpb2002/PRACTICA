@@ -1,1 +1,3 @@
 PRACTICA GESTION
+
+push desde diferente dispositivo mediante colaboracion
